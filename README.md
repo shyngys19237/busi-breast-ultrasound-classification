@@ -105,10 +105,8 @@ busi-breast-ultrasound-classification/
 ├── history.csv
 │
 ├── results/
-│   ├── confusion_matrix.png
-│   ├── history_plot.png
-│   ├── dataset_samples.png
-│   ├── sample_predictions.png
-│
-└── assets/
-    └── preview.png
+   ├── confusion_matrix.png
+   ├── history_plot.png
+   ├── dataset_samples.png
+   ├── sample_predictions.png
+
